@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oliviacrz01
 - 👀 I’m interested in coding/programming
-- 🌱 I’m currently learning how to code/progra
+- 🌱 I’m currently learning how to code/program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
